@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "email": "24f2007860@ds.study.iitm.ac.in",
+    "version": "929edb8a"
+  },
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "Wireless Headphones X200",
+      "category": "electronics",
+      "price": 199.99,
+      "stock": 15,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-002",
+      "name": "Smart Fitness Watch Pro",
+      "category": "electronics",
+      "price": 249.99,
+      "stock": 16,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-003",
+      "name": "Organic Cotton T-Shirt",
+      "category": "clothing",
+      "price": 29.99,
+      "stock": 50,
+      "rating": 4.2
+    },
+    {
+      "id": "prod-004",
+      "name": "Slim Fit Jeans",
+      "category": "clothing",
+      "price": 59.99,
+      "stock": 40,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-005",
+      "name": "Modern Wooden Chair",
+      "category": "furniture",
+      "price": 149.99,
+      "stock": 20,
+      "rating": 4.4
+    },
+    {
+      "id": "prod-006",
+      "name": "Office Desk Premium",
+      "category": "furniture",
+      "price": 299.99,
+      "stock": 10,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-007",
+      "name": "Stainless Steel Water Bottle",
+      "category": "home",
+      "price": 19.99,
+      "stock": 100,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-008",
+      "name": "Ceramic Dinner Set",
+      "category": "home",
+      "price": 89.99,
+      "stock": 25,
+      "rating": 4.4
+    },
+    {
+      "id": "prod-009",
+      "name": "Yoga Mat Comfort Plus",
+      "category": "sports",
+      "price": 39.99,
+      "stock": 60,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-010",
+      "name": "Adjustable Dumbbell Set",
+      "category": "sports",
+      "price": 129.99,
+      "stock": 18,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-011",
+      "name": "Laptop Backpack",
+      "category": "accessories",
+      "price": 49.99,
+      "stock": 45,
+      "rating": 4.4
+    },
+    {
+      "id": "prod-012",
+      "name": "LED Table Lamp",
+      "category": "home",
+      "price": 34.99,
+      "stock": 30,
+      "rating": 4.2
+    },
+    {
+      "id": "prod-013",
+      "name": "Running Shoes Elite",
+      "category": "clothing",
+      "price": 89.99,
+      "stock": 22,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-014",
+      "name": "Portable Phone Charger",
+      "category": "accessories",
+      "price": 24.99,
+      "stock": 75,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-015",
+      "name": "Gaming Mouse Pro",
+      "category": "electronics",
+      "price": 99.99,
+      "stock": 12,
+      "rating": 4.5
+    }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 7956.83
+    }
+  }
+}
